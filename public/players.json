@@ -1,0 +1,124 @@
+{
+  "players": [
+    {
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "playing_role": "All-rounder",
+      "rating": 92,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Slow left-arm orthodox",
+      "price": 2500000,
+      "image": "https://i.pinimg.com/736x/2c/31/01/2c31015d1d3df874992d5f90c4d9c1ab.jpg"
+    },
+    {
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "playing_role": "Batsman",
+      "rating": 88,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Right-arm offbreak",
+      "price": 1800000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMFOuArCTohmfkabbQGSF3m0BWh74-J59vqw&s"
+    },
+    {
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "playing_role": "Wicketkeeper Batsman",
+      "rating": 90,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "left-arm orthodox",
+      "price": 2000000,
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyk1J7hwFTMe0g6EjQJKNHXe61Kr_4geH2vT8CA6uGNDzRViTCzFQhIgyx0VyAI_67Vc6ELt9UNGR46kja6vdoxlo1AQzNZYo71Diq_qQ"
+    },
+    {
+      "name": "Mahmudullah Riyad",
+      "country": "Bangladesh",
+      "playing_role": "All-rounder",
+      "rating": 85,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm offbreak",
+      "price": 1700000,
+      "image": "https://pbs.twimg.com/profile_images/1181450736200060929/ibu_otes_400x400.jpg"
+    },
+    {
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "playing_role": "Bowler",
+      "rating": 87,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Left-arm fast-medium",
+      "price": 1900000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3VbmjZw2xouzZPOTSkxBU8YJ3o_qT-OR5g&s"
+    },
+    {
+      "name": "Mashrafe Mortaza",
+      "country": "Bangladesh",
+      "playing_role": "Bowler",
+      "rating": 80,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm medium-fast",
+      "price": 1600000,
+      "image": "https://static-files.cricket-australia.pulselive.com/headshots/440/552-camedia.png"
+    },
+    {
+      "name": "Chris Gayle",
+      "country": "West Indies",
+      "playing_role": "Batsman",
+      "rating": 93,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Right-arm offbreak",
+      "price": 3000000,
+      "image": "https://static-files.cricket-australia.pulselive.com/headshots/288/1417-camedia.png"
+    },
+    {
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "playing_role": "All-rounder",
+      "rating": 91,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm fast",
+      "price": 2800000,
+      "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/141.png"
+    },
+    {
+      "name": "Sunil Narine",
+      "country": "West Indies",
+      "playing_role": "All-rounder",
+      "rating": 86,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Right-arm offbreak",
+      "price": 2100000,
+      "image": "https://nycaribnews.com/wp-content/uploads/2023/11/Sunil-Narine.png"
+    },
+    {
+      "name": "David Warner",
+      "country": "Australia",
+      "playing_role": "Batsman",
+      "rating": 92,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Right-arm legbreak",
+      "price": 3100000,
+      "image": "https://static-files.cricket-australia.pulselive.com/headshots/440/1189-camedia.png"
+    },
+    {
+      "name": "AB de Villiers",
+      "country": "South Africa",
+      "playing_role": "Batsman",
+      "rating": 95,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm medium",
+      "price": 3200000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA9GyEjMKp7-q1dEskjy-oibC6fbzZvNQS6w&s"
+    },
+    {
+      "name": "Lasith Malinga",
+      "country": "Sri Lanka",
+      "playing_role": "Bowler",
+      "rating": 89,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm fast",
+      "price": 220000,
+      "image": "https://documents.iplt20.com/playerheadshot/ipl/284/211.png"
+    }
+  ]
+}
