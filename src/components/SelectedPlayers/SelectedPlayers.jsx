@@ -9,7 +9,6 @@ const SelectedPlayers = ({ selectedPlayers,removePlayer }) => {
             selectedPlayers.map(selectedPlayer => <SelectedCard selectedPlayer={selectedPlayer} removePlayer={removePlayer}></SelectedCard>)
             }
 
-
         </div>
     );
 };

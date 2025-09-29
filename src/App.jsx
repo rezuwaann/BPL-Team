@@ -8,6 +8,8 @@ import Navbar from './components/Navbar/Navbar'
 import { Suspense, useState } from 'react'
 
 import { ToastContainer } from 'react-toastify';
+import Banner from './components/Banner/Banner'
+import Footer from './components/Footer/Footer'
 
 const fetchPlayers = async () => {
   const res = await fetch('../players.json')
@@ -32,8 +34,9 @@ function App() {
     <>
 
       <Navbar availableBalance={availableBalance}></Navbar>
-
+<Banner></Banner>
       <div className='max-w-[1200px] mx-auto flex justify-between items-center'>
+
         <h1 className='font-bold text-2xl ml-2'>{toggle ? "Available Players" : "Selected Players"}</h1>
 
         <div className='font-bold'>
@@ -62,6 +65,7 @@ function App() {
 
       <ToastContainer></ToastContainer>
 
+<Footer></Footer>
     </>
   )
 }
