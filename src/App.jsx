@@ -37,11 +37,11 @@ function App() {
 <Banner></Banner>
       <div className='max-w-[1200px] mx-auto flex justify-between items-center'>
 
-        <h1 className='font-bold text-2xl ml-2'>{toggle ? "Available Players" : "Selected Players"}</h1>
+        <h1 className='font-bold text-xl lg:text-2xl ml-2'>{toggle ? "Available Players" : "Selected Players"}</h1>
 
-        <div className='font-bold'>
-          <button onClick={() => setToggle(true)} className={`py-3 px-4 border-1 border-gray-400 rounded-l-2xl border-r-0 hover:cursor-pointer ${toggle ? "bg-[#E7FE29]" : ""}`}>Available</button>
-          <button onClick={() => setToggle(false)} className={`py-3 px-4 border-1 border-gray-400 rounded-r-2xl border-l-0 hover:cursor-pointer ${toggle ? "" : "bg-[#E7FE29]"}`}>Selected <span>({selectedPlayers.length})</span></button>
+        <div className='font-bold mr-1'>
+          <button onClick={() => setToggle(true)} className={`py-1 lg:py-3 px-2 lg:px-4 border-1 border-gray-400 rounded-l-2xl border-r-0 hover:cursor-pointer ${toggle ? "bg-[#E7FE29]" : ""}`}>Available</button>
+          <button onClick={() => setToggle(false)} className={`py-1 lg:py-3 px-2 lg:px-4 border-1 border-gray-400 rounded-r-2xl border-l-0 hover:cursor-pointer ${toggle ? "" : "bg-[#E7FE29]"}`}>Selected <span>({selectedPlayers.length})</span></button>
         </div>
       </div>
 

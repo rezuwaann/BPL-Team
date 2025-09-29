@@ -32,14 +32,14 @@ const footer = () => {
 
                 <div className='flex flex-col xl:flex-row space-y-20 xl:space-y-0 space-x-70  mx-auto '>
 
-                    <div className='flex flex-col max-w-[250px] gap-3'>
+                    <div className='flex flex-col max-w-[250px] gap-3 mr-auto'>
                         <h1 className='font-bold text-2xl'>About Us</h1>
                         <p className='text-gray-500'> We are a passionate team dedicated to providing the best services to our customers.</p>
                     </div>
 
 
 
-                    <div className='flex flex-col max-w-[250px] gap-3'>
+                    <div className='flex flex-col max-w-[250px] gap-3 mr-auto'>
                         <h1 className='font-bold text-2xl'>Quick Links</h1>
                         <ul className='list-disc text-gray-500'>
                             <li className='hover:cursor-pointer'>Home</li>
@@ -51,7 +51,7 @@ const footer = () => {
 
 
 
-                    <div className='flex flex-col max-w-[450px] gap-5'>
+                    <div className='flex flex-col max-w-[300px] lg:max-w-[450px] gap-5 '>
                         <h1 className='font-bold text-2xl'>Subscribe</h1>
                         <p className='text-gray-500'>Subscribe to our newsletter for the latest updates.</p>
 
